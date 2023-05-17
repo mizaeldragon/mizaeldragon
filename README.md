@@ -1,7 +1,6 @@
 ### Olá"
 
 - 🔭 Hoje estou estudando desenvolvimento full-stack
-- 🌱 estudando back-end
 - 👯 Contate-me no email: raidechin@gmail.com
 - 😄 Pronouns: Ele/Dele
 

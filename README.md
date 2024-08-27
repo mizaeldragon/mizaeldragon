@@ -1,8 +1,9 @@
 ### Olá"
 
-- 🔭 Hoje estou estudando desenvolvimento full-stack
-- 👯 Contate-me no email: raidechin@gmail.com
+- 🔭 Desenvolvedor full-stack
+- 👯 Contate-me no email: mizaeelsantos056@gmail.com
 - 😄 Pronouns: Ele/Dele
+-  Cursando Engeharia de software
 
 ##
 

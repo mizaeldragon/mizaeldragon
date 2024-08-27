@@ -3,7 +3,7 @@
 - 🔭 Desenvolvedor full-stack
 - 👯 Contate-me no email: mizaeelsantos056@gmail.com
 - 😄 Pronouns: Ele/Dele
--  Cursando Engeharia de software
+-  Cursando Engenharia de software
 
 ##
 

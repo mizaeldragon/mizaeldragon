@@ -2,7 +2,6 @@
 
 - 🔭 Desenvolvedor full-stack
 - 👯 Contate-me no email: mizaeelsantos056@gmail.com / Whatsapp: 99981815553
-- 😄 Pronouns: Ele/Dele
 -  Cursando Engenharia de software
 
 ##

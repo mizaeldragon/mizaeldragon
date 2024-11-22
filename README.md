@@ -1,7 +1,7 @@
 ### Olá"
 
 - 🔭 Desenvolvedor full-stack
-- 👯 Contate-me no email: mizaeelsantos056@gmail.com / Whatsapp: 99981815553
+- 👯 Contate-me no email: mizaeelsantos056@gmail.com / Whatsapp: 99981979728
 -  Cursando Engenharia de software
 
 ##

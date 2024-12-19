@@ -1,8 +1,8 @@
-### Olá"
+### PRAZER"
 
-- 🔭 Desenvolvedor full-stack
-- 👯 Contate-me no email: mizaeelsantos056@gmail.com / Whatsapp: 99981979728
--  Cursando Engenharia de software
+- 🔭 DESENVOLVEDOR FULL STACK
+- 👯 EMAIL: mizaeelsantos056@gmail.com / WHATSAPP: 99981979728
+-  BACHARELADO: ENGENHARIA DE SOFTWARE (EM ANDAMENTO)
 
 ##
 

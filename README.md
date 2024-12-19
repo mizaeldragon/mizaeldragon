@@ -1,4 +1,4 @@
-### PRAZER"
+### PRAZER
 
 - 🔭 DESENVOLVEDOR FULL STACK
 - 👯 EMAIL: mizaeelsantos056@gmail.com / WHATSAPP: 99981979728

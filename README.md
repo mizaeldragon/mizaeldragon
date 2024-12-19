@@ -22,6 +22,7 @@
   <img align="center" alt="mizael-CSS" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
   <img align="center" alt="mizael-CSS" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
   <img align="center" alt="mizael-CSS" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+  <img align="center" alt="mizael-CSS" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastify/fastify-original.svg" />
 <div>
 
 

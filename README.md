@@ -1,7 +1,7 @@
 ### PRAZER
 
 - 🔭 DESENVOLVEDOR FULL STACK
-- 👯 EMAIL: mizaeelsantos056@gmail.com / WHATSAPP: 99981979728
+- 👯 EMAIL: mizaeelsantos056@gmail.com / WHATSAPP: (99)98473-5063
 -  BACHARELADO: ENGENHARIA DE SOFTWARE (EM ANDAMENTO)
 
 ##
